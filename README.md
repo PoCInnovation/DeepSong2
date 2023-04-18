@@ -1,6 +1,6 @@
-> If you see this section, you've just created a repository using [PoC Innovation's Open-Source project template](https://github.com/PoCInnovation/open-source-project-template). Check the [getting started guide](./.github/getting-started.md).
 
-# [PROJECT'S NAME]
+
+# DeepSong2
 
 [Project's description]
 
@@ -31,11 +31,11 @@ If you're interested in how the project is organized at a higher level, please c
 ## Our PoC team ❤️
 
 Developers
-| [<img src="https://github.com/MrZalTy.png?size=85" width=85><br><sub>[Developer's name]</sub>](https://github.com/MrZalTy) | [<img src="https://github.com/MrZalTy.png?size=85" width=85><br><sub>[Developer's name]</sub>](https://github.com/MrZalTy) | [<img src="https://github.com/MrZalTy.png?size=85" width=85><br><sub>[Developer's name]</sub>](https://github.com/MrZalTy)
+| [<img src="https://github.com/Tipbs.png?size=85" width=85><br><sub>[Thibaut DEGODENNE]</sub>](https://github.com/Tipbs) | [<img src="https://github.com/NicolasMelet.png?size=85" width=85><br><sub>[Nicolas MELET]</sub>](https://github.com/NicolasMelet) | [<img src="https://github.com/Mael-RABOT.png?size=85" width=85><br><sub>[Mael RABOT]</sub>](https://github.com/Mael-RABOT)
 | :---: | :---: | :---: |
 
 Manager
-| [<img src="https://github.com/adrienfort.png?size=85" width=85><br><sub>[Manager's name]</sub>](https://github.com/adrienfort)
+| [<img src="https://github.com/agherasie.png?size=85" width=85><br><sub>[Alexandru GHERASIE]</sub>](https://github.com/agherasie)
 | :---: |
 
 <h2 align=center>
