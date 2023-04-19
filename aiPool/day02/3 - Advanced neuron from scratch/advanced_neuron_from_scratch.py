@@ -34,6 +34,11 @@ class NeuralNetwork:
             self.params["B_" + str(layer)] = np.random.randn(dimensions[layer], 1)
 
 
+    def display_params(self):
+        for key, value in self.params.items():
+            print(f"{key} -> {len(value)}")
+
+
     def forward(self, X):
         return [sigmoid(x) for x in X]
 
@@ -47,6 +52,11 @@ class NeuralNetwork:
 
 def deep_neural_network_training(data_X, data_Y, layers=(16, 8, 16), learning_rate=0.1, epoch=500):
     network = NeuralNetwork(layers, learning_rate, epoch)
+    for i in range(len(data_X)):
+        prediction = network.forward(data_X[i])
+    network.display_params()
+    for i in prediction:
+        print(f"{i}")
 
 
 X, Y = make_circles(n_samples=1500, factor=0.3, noise=0.08, random_state=0)
